@@ -1,0 +1,7 @@
+azure-functions
+azure-ai-documentintelligence
+azure-identity
+azure-storage-blob
+pandas
+openpyxl
+jsonschema
